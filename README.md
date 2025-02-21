@@ -46,17 +46,18 @@ Install Flask:
 pip install Flask
 
 Run the Jupyter Notebook:
-Open "Building Plagiarism checker using Machine Learning.ipynb" in Jupyter Notebook and execute all cells to load the model and vectorizer.
-![image](https://github.com/user-attachments/assets/01d5d538-4590-4d1b-8339-5370bf7f4ad4)
+Open "Building Plagiarism checker using Machine Learning.ipynb" in Jupyter Notebook and execute all cells to load the model and vectorizer
 
+.![WhatsApp Image 2025-02-21 at 6 49 21 PM (2)](https://github.com/user-attachments/assets/c4d7718b-b5b3-4743-8f05-a172011e4bcc)
 
 Run the Application:
 Execute "app.py" using any code IDE like VS code or using terminal
 
 Access the Application: After running app.py, the IP address and port displayed in the terminal. Open it in a web browser to access the application on your local machine.
-![image](https://github.com/user-attachments/assets/858d44c1-4ffb-4b80-951d-cb88487ccfc4)
-![image](https://github.com/user-attachments/assets/a9f07531-8880-4b43-a88b-59aab2c195c8)
 
+![WhatsApp Image 2025-02-21 at 6 49 21 PM](https://github.com/user-attachments/assets/160e6d7b-3b2c-41fc-a086-e4b8ca04af6f)
+
+![WhatsApp Image 2025-02-21 at 6 49 21 PM (1)](https://github.com/user-attachments/assets/18ca9ab7-270d-4f03-a320-e15fccc7d791)
 
 ## Model Details
 
